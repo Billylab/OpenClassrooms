@@ -1,0 +1,162 @@
+Afrique;Evaluation des risques pays;Evaluation Environnement des affaires
+Afrique du Sud;B;A4 
+Algérie;C;C 
+Angola;C;D 
+Bénin;B;C 
+Botswana;A4;A4 
+Burkina Faso;C;C 
+Burundi;E;E 
+Cameroun;C;D 
+Cabo Verde;B;C 
+Congo;C;D 
+Congo (République démocratique du);D;E 
+Côte d'Ivoire;B;B 
+Djibouti;C;C 
+Égypte;B;B 
+Érythrée;E;E 
+Éthiopie;C;D 
+Gabon;C;C 
+Ghana;B;B 
+Guinée;C;D 
+Kenya;A4;B 
+Libéria;D;D 
+Libye;E;E 
+Madagascar;D;D 
+Malawi;D;D 
+Mali;D;D 
+Maroc;A4;A4 
+Maurice;A4;A3 
+Mauritanie;D;D 
+Mozambique;D;D 
+Namibie;B;A4 
+Niger;C;C 
+Nigéria;C;D 
+Ouganda;C;C 
+République centrafricaine;D;E 
+Rwanda;A4;A4 
+Sao Tomé-et-Principe;C;D 
+Sénégal;B;B 
+Sierra Leone;D;D 
+Soudan;E;E 
+République-Unie de Tanzanie;C;C 
+Tchad;D;E 
+Togo;C;C 
+Tunisie;C;B 
+Zambie;D;C 
+Zimbabwe;E;E 
+Argentine;C;B 
+Bolivie (État plurinational de);C;B 
+Brésil;B;A4 
+Canada;A2;A1 
+Chili;A3;A3 
+Colombie;A4;A4 
+Costa Rica;B;A4 
+Cuba;E;E 
+Équateur;C;B 
+États-Unis d'Amérique;A2;A1 
+Guatemala;C;C 
+Guyana;D;C 
+Haïti;D;E 
+Honduras;C;C 
+Jamaïque;B;A4 
+Mexique;B;A4 
+Nicaragua;D;C 
+Panama;A4;A4 
+Paraguay;C;C 
+Pérou;A4;A4 
+République dominicaine;A4;C 
+El Salvador;C;B 
+Suriname;D;C 
+Trinité-et-Tobago;B;A4 
+Uruguay;A4;A3 
+Venezuela (République bolivarienne du);E;E 
+Afghanistan;E;E 
+Australie;A2;A1 
+Bangladesh;C;C 
+Cambodge;C;C 
+Chine, continentale;B;B 
+République populaire démocratique de Corée;E;E 
+République de Corée;A2;A1 
+Chine - RAS de Hong-Kong;A2;A1 
+Inde;B;B 
+Indonésie;A4;A4 
+Japon;A2;A1 
+République démocratique populaire lao;D;D 
+Malaisie;A3;A3 
+Maldives;D;C 
+Mongolie;C;C 
+Myanmar;D;D 
+Népal;D;C 
+Nouvelle-Zélande;A2;A1 
+Pakistan;D;C 
+Papouasie-Nouvelle-Guinée;B;C 
+Philippines;A4;B 
+Singapour;A2;A1 
+Sri Lanka;C;B 
+Chine, Taiwan Province de;A2;A2 
+Thaïlande;A4;A3 
+Timor-Leste;E;C 
+Viet Nam;B;B 
+Arménie;C;B 
+Azerbaïdjan;B;C 
+Géorgie;B;A4 
+Kazakhstan;B;B 
+Kirghizistan;D;C 
+République de Moldova;C;B 
+Ouzbékistan;C;C 
+Fédération de Russie;B;B 
+Tadjikistan;D;D 
+Turkménistan;D;E 
+Ukraine;C;C 
+Albanie;C;C 
+Allemagne;A1;A1 
+Autriche;A1;A1 
+Belgique;A2;A1 
+Biélorussie;C;C 
+Bosnie-Herzégovine;C;B 
+Bulgarie;A4;A3 
+Chypre;A4;A3 
+Croatie;A4;A3 
+Danemark;A2;A1 
+Espagne;A2;A1 
+Estonie;A2;A1 
+Finlande;A2;A1 
+France;A2;A1 
+Grèce;B;A3 
+Hongrie;A3;A3 
+Irlande;A3;A1 
+Islande;A2;A1 
+Italie;A4;A2 
+Lettonie;A3;A2 
+Lituanie;A3;A2 
+Luxembourg;A1;A1 
+Macédoine du Nord;B;A4 
+Malte;A2;A2 
+Monténégro;B;A4 
+Norvège;A1;A1 
+Pays-Bas;A1;A1 
+Pologne;A3;A2 
+Portugal;A2;A2 
+Roumanie;A4;A3 
+Royaume-Uni;A3;A1 
+Serbie;B;A4 
+Slovaquie;A2;A2 
+Slovénie;A3;A2 
+Suède;A2;A1 
+Suisse;A1;A1 
+Tchéquie (la);A2;A2 
+Turquie;C;A4 
+Arabie saoudite;C;B 
+Bahreïn;C;A4 
+Émirats arabes unis;A3;A2 
+Iraq;E;E 
+Iran (République islamique d');E;D 
+Israël;A2;A2 
+Jordanie;C;B 
+Koweït;A3;A4 
+Liban;D;C 
+Oman;B;A4 
+Palestine;D;D 
+Qatar;A4;A3 
+République arabe syrienne;E;E 
+Yémen;E;E 
